@@ -1,2 +1,2 @@
-# Impacta_Infrastructure-as-Code
-Repositório para os arquivos do curso
+# iaac_0506
+Arquivos referentes a Aula de IaaC das turmas 05 e 06
